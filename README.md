@@ -1,3 +1,3 @@
-# currency_converter
+This is an app written in Dart (Flutter) that converts two currencies chosen by the user.
 
-A new Flutter project.
+The app gets the exchange rates of the currencies from exchangerates' api.
